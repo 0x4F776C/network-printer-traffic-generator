@@ -9,3 +9,4 @@ Python script to generate network traffic
 5. Done!
 
 ### Interface preview
+![User Interface Image](https://github.com/0x4F776C/network-printer-traffic-generator/blob/main/PTG.png)
