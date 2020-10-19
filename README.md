@@ -1,6 +1,9 @@
 # Network printer traffic generator
 Python script to generate network traffic
 
+## Requirements
+Scapy - https://pypi.org/project/scapy/
+
 ## How to use?
 1. Run the script with root privilege
 2. Key in the first 3 octet of the network you are in
