@@ -1,0 +1,26 @@
+### 
+Opening Ports on a Firewall for TCP/IP Printing
+###
+
+201->202
+204
+206
+80
+213
+515
+721->731
+>1023
+137->139
+530
+161->162
+2000
+2501->2503
+3001
+6869
+9100->9102
+
+###
+Thought process
+###
+
+- Use scapy to generate traffic to the ports mentioned above using random internal IP addresses
